@@ -144,7 +144,7 @@ table {
     width: 636px;
     height: 538px;
     padding-top: 20px;
-   margin-left: 25px;
+    margin-left: 25px;
 }
 
 .item img {
@@ -171,7 +171,7 @@ table {
 }
 
 .item .text {
-   width: 300px;
+    width: 300px;
     display: flex;
     margin-left: 16px;
     gap: 7px;
@@ -185,9 +185,10 @@ table {
     padding: 4px 12px;
 
 }
-.text a{
+
+.text a {
     display: block;
     text-decoration: none;
     color: black;
-    
+
 }
